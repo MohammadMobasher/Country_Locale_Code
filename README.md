@@ -1,4 +1,6 @@
-# Country_Locale_Code
+# Country Locale Code
+This is a simple table output of all country locale codes.
+If the locale code is not mentioned here, you can create pull request for add to table.
 
 | Country | Locale Code |
 | :---         |     :---:      |
